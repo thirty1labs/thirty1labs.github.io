@@ -17,4 +17,3 @@
 ## Public URLs
 - Main site: https://thirty1labs.com/
 - Help: https://thirty1labs.com/help/
-- NovaWeather: https://thirty1labs.com/novaweather/
