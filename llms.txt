@@ -6,7 +6,7 @@
 - Purpose: Just to develop apps for fun. The owner is a student developer, trying to share his coding skills with the world.
 
 ## Products and apps
-- NovaWeather: A highly customizable mobile weather app.
+- Coming soon
 
 ## About the site
 - This website is the public home for Thirty1 Labs.
